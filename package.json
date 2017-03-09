@@ -1,0 +1,6 @@
+{
+  "name": "simpleimage",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
+}
